@@ -28,7 +28,7 @@ Search and connect with available healthcare professionals instantly.
 
 - **Frontend:** React, Tailwind CSS / Bootstrap
 - **APIs:** RESTful API integration (for doctor data)
-- **Deployment:** Vercel / Netlify / GitHub Pages
+- **Deployment:** Vercel 
 
 ## 📅 Future Enhancements
 
