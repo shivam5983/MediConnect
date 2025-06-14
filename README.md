@@ -2,7 +2,8 @@
 
 A modern, responsive web application to instantly find and connect with available doctors. MediConnect makes healthcare access seamless—no waiting, no hassle.
 
-![MediConnect Homepage](https://medi-connect-theta.vercel.app/)
+![MediConnect Homepage](![image](https://github.com/user-attachments/assets/be2d4710-4fb1-437e-b76d-8e9797616014)
+)
 
 ## 🚀 Features
 
